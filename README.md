@@ -21,4 +21,4 @@ This lab consists of gaining familiarity of the Ubuntu OS and basic Linux Termin
 
 - <b>Ubuntu</b>
 
-<h2>Lab </h2>
+<h2>Lab Walk-Through </h2>
